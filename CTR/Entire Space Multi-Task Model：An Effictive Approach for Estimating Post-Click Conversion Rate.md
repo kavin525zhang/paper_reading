@@ -1,1 +1,3 @@
 论文地址：[https://arxiv.org/pdf/1804.07931.pdf](https://arxiv.org/pdf/1804.07931.pdf)
+论文工程地址：[https://github.com/alibaba/x-deeplearning/wiki/全空间多任务模型(ESMM)](https://github.com/alibaba/x-deeplearning/wiki/%E5%85%A8%E7%A9%BA%E9%97%B4%E5%A4%9A%E4%BB%BB%E5%8A%A1%E6%A8%A1%E5%9E%8B(ESMM))
+学习代码：[https://github.com/kavin525zhang/CTR/tree/main/model/ESMM](https://github.com/kavin525zhang/CTR/tree/main/model/ESMM)
