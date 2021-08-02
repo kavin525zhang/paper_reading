@@ -17,4 +17,12 @@ good good study, day day up
 * [LambdaMart](https://github.com/kavin525zhang/paper_reading/blob/main/information_retrieval/LambdaMart.md)
 
 
-$\color{#FF0000}{红色}$
+<font color="#FF0000" size="5px" face="宋体">红</font>
+<font color="#FF7D00" size="5px" face="宋体">橙</font>
+<font color="#FFFF00" size="5px" face="宋体">黄</font>
+<font color="#00FF00" size="5px" face="宋体">绿</font>
+<font color="#0000FF" size="5px" face="宋体">蓝</font>
+<font color="#00FFFF" size="5px" face="宋体">靛</font>
+<font color="#FF00FF" size="5px" face="宋体">紫</font>
+<font color="red" size="5px" face="宋体">红色</font>
+<font color="#FF0000" size="5px" face="宋体">红色</font>
