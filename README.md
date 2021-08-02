@@ -17,4 +17,4 @@ good good study, day day up
 * [LambdaMart](https://github.com/kavin525zhang/paper_reading/blob/main/information_retrieval/LambdaMart.md)
 
 
-<font color='red'> text </font>
+$\color{#FF0000}{红色}$
