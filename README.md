@@ -12,6 +12,6 @@ good good study, day day up
 * [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://github.com/kavin525zhang/paper_reading/blob/main/information_retrieval/Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb.md)
 
 ### 2021.08.03
-* [RankNet](https://github.com/kavin525zhang/paper_reading/blob/main/information_retrieval/RankNet.pdf)
-* [LambdaRank](https://github.com/kavin525zhang/paper_reading/blob/main/information_retrieval/LambdaRank.pdf)
+* [RankNet](https://github.com/kavin525zhang/paper_reading/blob/main/information_retrieval/RankNet.pdf) √
+* [LambdaRank](https://github.com/kavin525zhang/paper_reading/blob/main/information_retrieval/LambdaRank.pdf) √
 * [LambdaMart](https://github.com/kavin525zhang/paper_reading/blob/main/information_retrieval/LambdaMart.md)
