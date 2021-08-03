@@ -15,3 +15,8 @@ good good study, day day up
 * [RankNet](https://github.com/kavin525zhang/paper_reading/blob/main/information_retrieval/RankNet.pdf) √
 * [LambdaRank](https://github.com/kavin525zhang/paper_reading/blob/main/information_retrieval/LambdaRank.pdf) √
 * [LambdaMart](https://github.com/kavin525zhang/paper_reading/blob/main/information_retrieval/LambdaMart.pdf)
+
+### 2021.08.04
+* [GBDT]()
+* [XGBOOST]()
+* [LightGBM]()
