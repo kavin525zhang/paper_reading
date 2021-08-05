@@ -20,3 +20,10 @@ good good study, day day up
 * [GBDT]()
 * [XGBOOST]()
 * [LightGBM]()
+* [搜狐文本匹配：基于条件LayerNorm的多任务baseline](https://kexue.fm/archives/8337)
+    * [基于Conditional Layer Normalization的条件文本生成](https://kexue.fm/archives/7124)
+
+### 2021.08.05
+* [Conditional Layer Normalization再学习]
+* [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/pdf/2005.00743.pdf)
+* [膨胀门卷积（DGCNN）]
